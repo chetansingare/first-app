@@ -1,0 +1,82 @@
+.Incomereport_main{
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    width: 580px;
+}
+.Incomereport_head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 10px 0px 20px;
+}
+#Incomereport_h{
+    font-family: Roboto,sans-serif;
+    margin: 20px;
+    color: #007cba;
+}
+.Incomereport_lightcard{
+    border-top: 1px solid #dee2e6;
+    border-bottom:1px solid #dee2e6 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background-color: lightgray;
+}
+#Incomereport_lightcard_left{
+    border-bottom-left-radius: 8px;
+    border-top-left-radius: 8px;
+    color: white;
+    background-color: #444054;
+    border: transparent;
+    padding: 8px 16px;
+    outline: none;
+}
+#Incomereport_lightcard_Right{
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    color: white;
+    background-color: rgb(96 93 110 / 50%);
+    border: transparent;
+    padding: 8px 16px;
+    outline: none;
+}
+.Incomereport_bottom{
+    padding: 20px;
+}
+.Incomereport_bottom_cards{
+    display: flex;
+    justify-content: space-between;
+}
+.Incomereport_bottom_cards_one{
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
+    width: 40%;
+    padding: 20px;
+    border-radius: 5px;
+}
+.sales{
+    margin: 0%;
+    margin-top: 5px;
+    font-size: 16px;
+    font-family: roboto,sans-serif;
+}
+#Incomereport_bottom_p{
+display: flex;
+justify-content: space-between;
+/* text-align: center; */
+color: white ;
+/* padding:30px 50px; */
+}
+.sales-percentage{
+    color: white;
+    font-size: 16px;
+    margin: 5px 0px;
+    text-align: right;
+}
+.sale-price{
+    color: #3AC47D;
+    margin: 0%;
+}
+.sale-price-c{
+    color: #d39250;
+}

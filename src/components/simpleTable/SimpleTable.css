@@ -1,0 +1,111 @@
+.SimpleTable{
+    width: 1140px;
+    margin: auto;
+    border: 1px solid lightgray;
+}
+.SimpleTable_Top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid lightgray;
+}
+.SimpleTable_Top_h{
+    padding-left: 8px;
+}
+.SimpleTable_Top_Btn{
+    padding-right: 8px;
+    border-color: #343a40;
+}
+.SimpleTable_Top_Btn_Left{
+    background-color: #343a40;
+    color: white;
+    border: none;
+    border-radius: 0px;
+    border-top-left-radius: 2px;
+    border-bottom-left-radius: 2px;
+    padding: 8px;
+}
+.SimpleTable_Top_Btn_Right{
+    border: none;
+    border-radius: 0px;
+   border-bottom-right-radius: 2px;
+   border-top-right-radius: 2px;
+   padding: 8px;
+}
+.SimpleTable_Top_Btn_Right:hover{
+    color:white;
+    background-color: #343a40;
+}
+.SimpleTable_Top_h{
+    padding-left: 8px;
+    color: #007cba;
+}
+/* .SimpleTable_Table_tr{
+    border-bottom: 5px solid green;
+} */
+.SimpleTable_Table_td{
+    border-bottom: 1px solid grey;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.SimpleTable_Table_td_Last{
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.SimpleTable_Table{
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid grey;
+}
+.SimpleTable_Table_Head{
+    padding:8.8px;
+    text-align: center;
+    border-bottom: 1px solid grey;
+}
+.SimpleTable_Table_Head_Name{
+    border-bottom: 1px solid grey;
+    text-align: left;
+}
+.SimpleTable_Table_Name{
+    display: flex;
+}
+.SimpleTable_Table_Action img{
+    width: 16px;
+}
+.SimpleTable_Table_Status{
+    border-radius: 15px;
+    outline: none;
+    border: none;
+    color: white;
+}
+.SimpleTable_Table_Name_h{
+    margin: 0%;
+    color: grey;
+}
+.SimpleTable_Table_Name_head{
+    margin-left: 5px;
+    text-align: left;
+}
+.SimpleTable_Bottom{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.SimpleTable_Bottom_Left{
+    padding-left: 8px;
+}
+.SimpleTable_Bottom_Left button{
+    color: #d92550;
+    border-color: #d92550;
+    border-radius: 3px;
+}
+.SimpleTable_Bottom_Right{
+    display: flex;
+    padding: 8px;
+}
+.SimpleTable_Bottom_Right button{
+    background-color: #6770d2;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}

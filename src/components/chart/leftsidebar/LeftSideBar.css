@@ -1,0 +1,19 @@
+.Left_btn_Main{
+    display: flex;
+    flex-flow: column;
+}
+.Left_Btn{
+    text-align: left;
+    border-radius: 5px;
+    background-color: transparent;
+    outline: none;
+    border: none;
+    padding-top: 8px;
+    font-size: 15px;
+}
+.Left_Btn:hover{
+    background-color: #007cba;
+}
+.LeftSideBar_h{
+    color: #007cba;
+}

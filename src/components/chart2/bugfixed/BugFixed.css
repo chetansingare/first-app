@@ -1,0 +1,70 @@
+.BugFixed_Top{
+    border: 1px solid lightgray;
+}
+.BugFixed_Bottom{
+    border: 1px solid lightgray;
+    margin-top: 20px;
+}
+.BugFixed_Top{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    background-image: radial-gradient(circle 248px at center, #16d9e3 0%, #30c7ec 47%, #46aef7 100%) !important;
+}
+.BugFixed_Top img{
+    width: 20px;
+    height: 20px;
+}
+.BugFixed_Top_Logo{
+    border-radius: 50%;
+    background-color: white;
+    width: 54px;
+    height: 54px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffff;
+    margin-top: 10px;
+}
+.BugFixed_Top h1{
+    font-size: 40px;
+    color: white;
+    font-family: Roboto, sans-serif;
+    margin: 0px;
+}
+.BugFixed_Top h2{
+    font-size: 14.4px;
+    margin: 0px;
+    color: white;
+}
+.BugFixed_Bottom{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    background-image: linear-gradient(to right, #f78ca0 0%, #f9748f 19%, #fd868c 60%, #fe9a8b 100%) !important;
+}
+.BugFixed_Bottom_Logo{
+    border-radius: 50%;
+    background-color: white;
+    width: 54px;
+    height: 54px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffff;
+    margin-top: 10px;
+}
+.BugFixed_Bottom img{
+    width: 20px;
+    height: 20px;
+}
+.BugFixed_Bottom h1{
+    margin: 0px;
+    font-size: 40px;
+    color: white;
+}
+.BugFixed_Bottom h2{
+    margin: 0px;
+    font-size: 14.4px;
+    color: white;
+}

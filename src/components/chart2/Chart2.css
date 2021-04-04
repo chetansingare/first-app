@@ -1,0 +1,13 @@
+.Chart2{
+    width: 1140px;
+    margin:auto;
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+.Chart2_Left{
+    width: 550px;
+}
+.Chart2_Right{
+    width:550px;
+}

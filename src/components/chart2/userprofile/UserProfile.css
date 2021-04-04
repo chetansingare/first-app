@@ -1,0 +1,72 @@
+.UserProfile{
+    border: 1px solid gray;
+}
+.UserProfile_Top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-image: url(https://www.webdesignerdepot.com/cdn-origin/uploads/2018/03/wildtextures-creased-black-paper-texture.jpg);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.UserProfile_Top_Left_Logo img{
+    border-radius: 50%;
+    margin:10px;
+
+}
+.UserProfile_Top_Left{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.UserProfile_Top_Left_Head h4{
+    color: white;
+    margin: 0px;
+}
+.UserProfile_Top_Right button{
+background-color: #3ac47d;
+color: white;
+border: none;
+margin-right: 10px;
+}
+.UserProfile_Mid{
+    display: flex;
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.UserProfile_Bottom{
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.UserProfile_Bottom_up button{
+    width: 50%;
+    margin: auto;
+    padding: 30px;
+    background-color: transparent;
+}
+.UserProfile_Bottom_down button{
+    width: 50%;
+    margin: auto;
+    padding: 30px;
+    background-color: transparent;
+}
+.UserProfile_Bottom_up_Left:hover{
+    background-color:  #212529;
+    color: white;
+}
+.UserProfile_Bottom_up_Right:hover{
+    background-color:#d92550;
+    color: white;
+}
+.UserProfile_Bottom_down_Left:hover{
+background-color: #3ac47d;
+color: white;
+}
+.UserProfile_Bottom_down_Right:hover{
+background-color: #444054;
+color: white;
+}    

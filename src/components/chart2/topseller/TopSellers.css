@@ -1,0 +1,102 @@
+.TopSellers{
+    text-align: center;
+    border: 1px solid lightgray;
+    margin-bottom: 45px;
+}
+.TopSellers_Top{
+    color: white;
+    background-image: url('https://image.shutterstock.com/image-photo/beautiful-abstract-grunge-decorative-navy-260nw-1716744790.jpg');
+    padding: 28px;
+}
+.TopSellers_Top_h1{
+   font-size: 25.6px;
+   margin: 0px;
+}
+.TopSellers_Top_h2{
+    font-size: 16px;
+    margin: 5px 0px 16px;
+}
+.TopSellers_Top_Btn button{
+    background-color: #f7b924;
+    border-color: #f7b924;
+    border: none;
+}
+.TopSellers_Top_Btn_1{
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    font-size: 12.8px;
+    padding: 6px 16px;
+}
+.TopSellers_Top_Btn_2{
+    font-size: 12.8px;
+    padding: 6px 16px;
+}
+.TopSellers_Top_Btn_3{
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    font-size: 12.8px;
+    padding: 6px 16px;
+}
+.TopSellers_Mid{
+    display: flex;
+    padding-bottom: 20px;
+    padding-bottom: 20px;
+    border: 1px solid lightgray;
+    padding:20px 0px 20px 0px;
+}
+.TopSellers_Mid_Left{
+    width: 50%;
+    display: flex;
+    align-items: center;
+}
+.TopSellers_Mid_Pie{
+width: auto;
+padding-bottom: 10px;
+}
+.TopSellers_Mid_Right{
+    width: 50%;
+    align-items: center;
+}
+.TopSellers_Bottom{
+    border: 1px solid lightgray;
+    border-top: none;
+    height: 50px;
+}
+
+.TopSellers_Bottom_Right button{
+    color:#f7b924 ;
+    border: none;
+    background-color: transparent;
+    /* font-weight: 700px; */
+    font: bold;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    outline:none;
+}
+.TopSellers_Bottom_Right button:hover{
+    background-color:#f7b924;
+    color: black;
+}
+.TopSellers_Mid_Right_h_1{
+    margin: 0px 0px 16px;
+    color: #d92550;
+    font-size: 40px;
+}
+.TopSellers_Mid_Right_h_2{
+    margin: -8px 0px 8px;
+    color: grey;
+    font-size: 14.4px;
+}
+.TopSellers_Mid_Right_h_3{
+    margin: 0px 0px 16px;
+    color: #6770d2;
+    font-size: 40px;
+    border-top: 1px solid lightgray;
+}
+.TopSellers_Mid_Right_h_4{
+    margin: -8px 0px 0px;
+    color: grey;
+    font-size: 14.4px;
+}

@@ -1,0 +1,64 @@
+
+.Highlights_main{
+    width: 45%;
+
+}
+.Highlights{
+    border: 1px solid #ced4da;
+    padding: 20px 30px;
+    margin-bottom: 50px;
+}
+.Highlights img{
+    width: 40px;
+    border-radius: 50%;
+}
+.Highlights h4{
+    font-family: Roboto,sans-serif;
+    margin: 20px;
+    color: grey;
+}
+.Highlights ul{
+    overflow: auto;
+    height: 200px;
+}
+.Highlights ul li{
+    list-style: none;
+    border: 1px solid #ced4da;
+    padding: 5px;
+}
+.Highlights li{
+    display: flex;
+}
+.Highlights li p{
+    margin: 0px;
+    padding:0px;
+}
+.Highlights_li{
+    padding-left: 10px;
+}
+.monthlyStatics{
+    border: 1px solid #ced4da;
+}
+.monthlytatics_h{
+    font-family: Roboto,sans-serif;
+    margin: 20px;
+    color: #007cba;
+}
+#plus{
+    color: green;
+    font-size: 30px;
+}
+#seventySix{
+    font-size: 40px;
+    color: black;
+}
+.monthlytatics_p{
+    font-family: Roboto,sans-serif;
+    margin: 20px;
+    color: grey
+}
+#Highlights_btn{
+    background-color: #6770d2;
+    border: none;
+    border-radius: 5px;
+}
