@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/first-react-app/static/css/main.7710ba57.chunk.css",
-    "main.js": "/first-react-app/static/js/main.de8d132e.chunk.js",
-    "main.js.map": "/first-react-app/static/js/main.de8d132e.chunk.js.map",
-    "runtime-main.js": "/first-react-app/static/js/runtime-main.e24b8538.js",
-    "runtime-main.js.map": "/first-react-app/static/js/runtime-main.e24b8538.js.map",
-    "static/js/2.17899308.chunk.js": "/first-react-app/static/js/2.17899308.chunk.js",
-    "static/js/2.17899308.chunk.js.map": "/first-react-app/static/js/2.17899308.chunk.js.map",
-    "static/js/3.79b509ac.chunk.js": "/first-react-app/static/js/3.79b509ac.chunk.js",
-    "static/js/3.79b509ac.chunk.js.map": "/first-react-app/static/js/3.79b509ac.chunk.js.map",
-    "index.html": "/first-react-app/index.html",
-    "static/css/main.7710ba57.chunk.css.map": "/first-react-app/static/css/main.7710ba57.chunk.css.map",
-    "static/js/2.17899308.chunk.js.LICENSE.txt": "/first-react-app/static/js/2.17899308.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/first-react-app/static/media/logo.6ce24c58.svg"
+    "main.css": "/first-app/static/css/main.7710ba57.chunk.css",
+    "main.js": "/first-app/static/js/main.de8d132e.chunk.js",
+    "main.js.map": "/first-app/static/js/main.de8d132e.chunk.js.map",
+    "runtime-main.js": "/first-app/static/js/runtime-main.4a968f8a.js",
+    "runtime-main.js.map": "/first-app/static/js/runtime-main.4a968f8a.js.map",
+    "static/js/2.8c99ad6f.chunk.js": "/first-app/static/js/2.8c99ad6f.chunk.js",
+    "static/js/2.8c99ad6f.chunk.js.map": "/first-app/static/js/2.8c99ad6f.chunk.js.map",
+    "static/js/3.79b509ac.chunk.js": "/first-app/static/js/3.79b509ac.chunk.js",
+    "static/js/3.79b509ac.chunk.js.map": "/first-app/static/js/3.79b509ac.chunk.js.map",
+    "index.html": "/first-app/index.html",
+    "static/css/main.7710ba57.chunk.css.map": "/first-app/static/css/main.7710ba57.chunk.css.map",
+    "static/js/2.8c99ad6f.chunk.js.LICENSE.txt": "/first-app/static/js/2.8c99ad6f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/first-app/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e24b8538.js",
-    "static/js/2.17899308.chunk.js",
+    "static/js/runtime-main.4a968f8a.js",
+    "static/js/2.8c99ad6f.chunk.js",
     "static/css/main.7710ba57.chunk.css",
     "static/js/main.de8d132e.chunk.js"
   ]
